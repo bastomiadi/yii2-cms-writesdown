@@ -110,7 +110,7 @@ php yii migrate or yii migrate
 ```
 
 Go to the admin panel http://host/public/admin/ and change the username and password. 
-The default username and password is superadmin/superadmin.
+The default username and password is superadmin/bastomisaja.
 
 Done, Enjoy!
 
