@@ -77,21 +77,6 @@ vendor/                  contains dependent 3rd-party packages
 widgets                  contains widgets
 ```
 
-Installation
-------------
-Like Yii2 Application Advanced, WritesDown CMS also use composer for installation, just type the following 
-to the command line.
-
-```
-composer global require "fxp/composer-asset-plugin:~1.1.1"
-composer create-project --prefer-dist --stability=dev writesdown/app-cms writesdown
-```
-
-The first command installs the composer asset plugin which allows managing bower and npm package dependencies through Composer. 
-You only need to run this command once for all. 
-The second command installs the advanced application in a directory named writesdown.
-You can choose a different directory name if you want.
-
 Getting Started
 ---------------
 Once the application has been downloaded, navigate towards the application directory and perform initialization on the command line.
