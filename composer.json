@@ -41,16 +41,7 @@
             "bower-asset-library": "vendor/bower"
         }
     },
-    "scripts": {
-        "download-upload-files" : [
-            "@php yii feehi/download-upload-files"
-        ]
-    },
     "repositories": [
-        {
-            "type": "composer",
-            "url": "https://mirrors.aliyun.com/composer/"
-        },
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
